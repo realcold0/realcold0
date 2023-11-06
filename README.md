@@ -1,13 +1,26 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcold0&show_icons=true&theme=radical)
+# Blog
+<div>
+  <a href="https://realcold0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-white?style=for-the-badge&logo=tistory&logoColor=black"/></a>
+</div>
+
+
 
 # Skills
 
-### 📚 Studying 📚
+### 💪Skills
 <div>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
+### Tools
+<div>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black">
 </div>
 
 
