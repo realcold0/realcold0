@@ -1,4 +1,4 @@
-![image](https://github.com/realcold0/realcold0/assets/65608503/2952ccb0-d0f1-4082-bf38-753da5780362)### Hi there 👋
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcold0&show_icons=true&theme=radical)
 
