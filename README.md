@@ -1,7 +1,16 @@
-### Hi there 👋
-
+![image](https://github.com/realcold0/realcold0/assets/65608503/2952ccb0-d0f1-4082-bf38-753da5780362)### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcold0&show_icons=true&theme=radical)
+
+# Skills
+
+### 📚 Studying 📚
+<div>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
+</div>
+
+
 <!--
 **realcold0/realcold0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
